@@ -1,6 +1,6 @@
 # RefactorChallenge
 
-User Story
+Description
 * This Repository is a refactor of a webpage that received improvements on HTML and CSS files without changing it's layout.
 
 Improvements
