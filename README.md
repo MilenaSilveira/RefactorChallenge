@@ -2,7 +2,7 @@
 
 ## Description
 
-The original webpage had long lines of code and this project refactors it. 
+The original Horison webpage had long lines of code and this project refactors it. 
 The page received improvements on HTML and CSS files without changing it's layout.
 
 ## Improvements
