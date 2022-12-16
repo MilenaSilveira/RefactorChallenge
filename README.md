@@ -1,7 +1,7 @@
 # RefactorChallenge
 
 User Story
-*This Repository is a refactor of a webpage that received improvements on HTML and CSS files without changing it's layout.
+* This Repository is a refactor of a webpage that received improvements on HTML and CSS files without changing it's layout.
 
 Improvements
 * Classes and Id's were minimized.
@@ -9,4 +9,4 @@ Improvements
 * Semantic Elements were added.
 
 Installation
-*Go to settings , pages and deploy pages to submmit the assignment.
+* Go to settings , pages and deploy pages to submmit the assignment.
