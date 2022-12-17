@@ -14,8 +14,17 @@ The page received improvements on HTML and CSS files without changing it's layou
 
 No installation needed.
 
+## Usage
+
+* Open Website
+![Horiseon website navigation bar, header image and boxes with respective image and information](assets/images/01-html-css-git-homework-demo.png)
+
 ## Credits
 UCF Coding Bootcamp
+
+## License
+
+N/A
 
 
 
